@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\parcialp3\\vistareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|solutionrelative:parcialp3\\vistareserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\parcialp3\\vistahuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|solutionrelative:parcialp3\\vistahuesped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B5BA1D-6DC3-43F7-8DAF-CD5A813FA085}|BLL\\BLL.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\bll\\servicioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B5BA1D-6DC3-43F7-8DAF-CD5A813FA085}|BLL\\BLL.csproj|solutionrelative:bll\\servicioreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\parcialp3\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8292B651-07E3-450A-AD8F-3A7AED2904B9}|Parcialp3\\Parcialp3.csproj|solutionrelative:parcialp3\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47B5BA1D-6DC3-43F7-8DAF-CD5A813FA085}|BLL\\BLL.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\bll\\serviciohuespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47B5BA1D-6DC3-43F7-8DAF-CD5A813FA085}|BLL\\BLL.csproj|solutionrelative:bll\\serviciohuespedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296795ED-AD5E-4786-ADD0-3DD3F9DBAECE}|Entidades\\Entidades.csproj|c:\\users\\camilo\\source\\repos\\parcialp3\\entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296795ED-AD5E-4786-ADD0-3DD3F9DBAECE}|Entidades\\Entidades.csproj|solutionrelative:entidades\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\Principal.cs",
+              "RelativeDocumentMoniker": "Parcialp3\\Principal.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\Principal.cs",
+              "RelativeToolTip": "Parcialp3\\Principal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:35:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Entidades\\Reserva.cs",
+              "RelativeDocumentMoniker": "Entidades\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Entidades\\Reserva.cs",
+              "RelativeToolTip": "Entidades\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:28:05.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicioHuespedes.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\BLL\\ServicioHuespedes.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicioHuespedes.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\BLL\\ServicioHuespedes.cs",
+              "RelativeToolTip": "BLL\\ServicioHuespedes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:20:48.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\BLL\\ServicioReserva.cs",
+              "RelativeDocumentMoniker": "BLL\\ServicioReserva.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\BLL\\ServicioReserva.cs",
+              "RelativeToolTip": "BLL\\ServicioReserva.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:18:26.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VistaReserva.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\VistaReserva.cs",
+              "RelativeDocumentMoniker": "Parcialp3\\VistaReserva.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\VistaReserva.cs",
+              "RelativeToolTip": "Parcialp3\\VistaReserva.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:15:33.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VistaHuesped.cs",
+              "DocumentMoniker": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\VistaHuesped.cs",
+              "RelativeDocumentMoniker": "Parcialp3\\VistaHuesped.cs",
+              "ToolTip": "C:\\Users\\Camilo\\source\\repos\\Parcialp3\\Parcialp3\\VistaHuesped.cs",
+              "RelativeToolTip": "Parcialp3\\VistaHuesped.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:15:32.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 169,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

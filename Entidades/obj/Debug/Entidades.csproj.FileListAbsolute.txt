@@ -1,0 +1,6 @@
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Camilo\source\repos\Parcialp3\Entidades\obj\Debug\Entidades.pdb
